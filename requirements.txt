@@ -1,0 +1,9 @@
+face_recognition
+numpy
+opencv_python
+pandas
+Pillow
+requests
+streamlit
+streamlit_lottie
+twilio
